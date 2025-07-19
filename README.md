@@ -1,7 +1,7 @@
-<h1 align="center">✨ This is Tarek Taha ✨</h1>
-<h3 align="center"> Robotics Lab Lead at Dubai Future Labs</h3>
+<h1 align="center">✨ Dr. Tarek Taha ✨</h1>
+<h3 align="center"> Director, Robotics Lab at Dubai Future Labs</h3>
 
-- 🔭 I am currently working on developing cool robots that are actually useful!
+- 🔭 I am currently working on developing cool robots that are useful and hopefully will have an impact!
 - 🌱 I am always looking for good engineers and researchers to join my team
 - 📫 How to reach me: [tarektaha.com](https://tarektaha.com/)
   
